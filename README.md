@@ -3,8 +3,8 @@
 <p>
 <br>Currently under Development 🖥️ </br>
 <br>The code is a complete mess 🧹 </br>
-<br>Expect unknown bugs, crashes 🐞 </br>
+<br>Expect unknown bugs and crashes 🐞 </br>
 </p> 
 
-<h2>We need Contributers to fix this mess 😂 </h2>
+<h2>We really need Contributers to fix this mess 😂 </h2>
 
