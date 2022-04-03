@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/2019-04-26_-_Tranquility_-_www.fesliyanstudios.com.ogg-cddd8745d7934112269950c719912956.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/2019-04-26_-_Tranquility_-_www.fesliyanstudios.com.ogg"
+dest_files=[ "res://.import/2019-04-26_-_Tranquility_-_www.fesliyanstudios.com.ogg-cddd8745d7934112269950c719912956.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
