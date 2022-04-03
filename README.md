@@ -1,8 +1,10 @@
-A simple vector Planet strike game made with Godot.
+<h1>A simple vector Planet strike game made with Godot.</h1>
 
-Contributers are welcomed.
+<p>
+<br>Currently under Development 🖥️ </br>
+<br>The code is a complete mess 🧹 </br>
+<br>Expect unknown bugs, crashes 🐞 </br>
+</p> 
 
-Currently under Development
-
-Expect unknown bugs, crashes and more.
+<h2>We need Contributers to fix this mess 😂 </h2>
 
